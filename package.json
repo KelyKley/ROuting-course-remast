@@ -2,7 +2,7 @@
   "name": "course-directory-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KelyKley/ROuting-course-remast",
+  "homepage": "https://kelykley.github.io/ROuting-course-remast",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
